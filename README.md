@@ -13,4 +13,4 @@ In order to be considered for a position, you must follow these steps:
 * Read all instructions.
 * Fork this repository.
 * Look at the README in the directory and follow the instructions.
-* Host your forked, updated repo on github and send us the link at recruitment@urbanizo.com
+* Host your forked, updated repo on github and send us the link at jobs@urbanizo.com
