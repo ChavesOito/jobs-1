@@ -1,4 +1,4 @@
-So… you’d like to work for Urbanizo?
+h1.So… you’d like to work for "Urbanizo":http://www.urbanizo.com?
 ====
 
 
@@ -6,11 +6,11 @@ We are looking for a team to help us make Urbanizo the largest real estate site 
 
 For this, we need a team not only technically good, but a team that is prepared to accept the responsibility of building a platform that will change people's lives.
 
-And to help us, Urbanizo have the support of the entire team of Buscapé Company, which is currently the largest Internet company in Brazil.
+And to help us, Urbanizo has the support of the entire team of Buscapé Company, which is currently the largest Internet company in Brazil.
 
 In order to be considered for a position, you must follow these steps:
 
-* Read all instructions.
-* Fork this repository.
-* Look at the README in the directory and follow the instructions.
-* Host your forked, updated repo on github and send us the link at jobs@urbanizo.com
+* Read all instructions;
+* Fork this repository (if you don’t know how to do that, Google is your friend);
+* Look at the README in the CV directory and follow the instructions;
+* Host your forked, updated repo on github and send us the link at jobs@urbanizo.com .
