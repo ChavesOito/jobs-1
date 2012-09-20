@@ -12,6 +12,7 @@ And to help us, Urbanizo has the support of the entire team of <a href="http://w
 
 * Read all instructions;
 * Fork this repository (if you don’t know how to do that, Google is your friend);
-* Look at the README in the CV directory and follow the instructions;
+* Commit and push your resume (Curriculum) to this directory;
 * Host your forked, updated repo on github and send us the link at <a href="jobs@urbanizo.com">jobs@urbanizo.com</a> .
 
+Just a few easy steps to know their real interest in working with us. If you have any questions or want to know more about the company, please send an email to <a href="jobs@urbanizo.com">jobs@urbanizo.com</a> .
